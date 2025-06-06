@@ -1,4 +1,3 @@
-# Webhooks-Blox-Fruit-Stock
 # Discord Webhook Blox Fruit Stock
 # Requirements file
 # pip install
